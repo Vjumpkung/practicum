@@ -36,8 +36,20 @@ alias ll='ls -al --color'
 alias tree='tree -L 1 -C'
 ```
 
+.
+
+.
+
+.
+
+.
+
+.
+
 ตามภาพนี้เลย
+
 ![config_profile](img/05.png)
+
 แล้วออกจาก nano หรือ vi
 
 ให้ logout แล้ว remote ssh ใหม่
@@ -57,7 +69,8 @@ Need to get 953 MB of archives.
 After this operation, 292 MB of additional disk space will be used.
 Do you want to continue? [Y/n] <-- กด Y แล้ว Enter
 ```
-*จำนวน package ที่จะ update อาจจะมีจำนวนที่แตกต่างกัน
+
+\*จำนวน package ที่จะ update อาจจะมีจำนวนที่แตกต่างกัน
 
 พิมพ์คำสั่งตามนี้
 
